@@ -2,7 +2,7 @@
 
 ## I'm a frontend developer, student, athlete and tech lover 🖥
 
-👨🏻‍💻 I’m currently working on portfolio projects and something interesting.
+👨🏻‍💻 I’m currently working on portfolio projects and something interesting. </br>
 📚 I’m currently learning in depth JavaScript and React + Redux.
 👥 I’m looking to collaborate with other content creators.
 
