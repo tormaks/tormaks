@@ -53,9 +53,6 @@
 <a href='https://t.me/tormaks' target='_blank' alt='Telegram'>
    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
 </a>
-<a href='https://vk.com/herothor' target='_blank' alt='VK'>
-   <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" height="30">
-</a>
 
 ---
 
