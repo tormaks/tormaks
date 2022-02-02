@@ -48,9 +48,7 @@
    <img src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" height="30">
 </a>
 
-### Connect with me:
-<a href='https://t.me/tormaks' target='_blank' alt='Telegram'>
-   <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
+### Connect with me: <a href='https://t.me/tormaks' target='_blank' alt='Telegram'><img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
 </a>
 
 ---
