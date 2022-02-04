@@ -44,9 +44,6 @@
 <a href='https://git-scm.com/' target='_blank' alt='Git'>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="30">
 </a>
-<a href='https://github.com/' target='_blank' alt='GitHub'>
-   <img src="https://www.kindpng.com/picc/m/255-2558173_github-logo-png-transparent-png.png" height="30">
-</a>
 
 ### Connect with me: 
 <a href='https://t.me/tormaks' target='_blank' alt='Telegram'>
