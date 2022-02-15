@@ -52,5 +52,5 @@
 
 ---
 
-### Spotify playing 🎧
+## Spotify playing 🎧
 [![Spotify](https://novatorem-eight-omega.vercel.app/api/spotify)](https://open.spotify.com/user/majorsemakin)
