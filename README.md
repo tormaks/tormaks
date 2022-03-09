@@ -3,7 +3,7 @@
 ## I'm a frontend developer, student, athlete and tech lover 🖥
 
 👨🏻‍💻 I’m currently working on portfolio projects and something interesting. </br>
-📚 I’m currently learning in depth JavaScript and React + Redux. </br>
+📚 I’m currently learning in depth JavaScript and React + MobX. </br>
 👥 I’m looking to collaborate with other content creators.
 
 ![macOS](https://svgshare.com/i/ZjP.svg)
