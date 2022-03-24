@@ -6,7 +6,8 @@
 📚 I’m currently learning in depth JavaScript and React + MobX. </br>
 👥 I’m looking to collaborate with other content creators.
 
-![macOS](https://svgshare.com/i/ZjP.svg)
+<img src="https://svgshare.com/i/ZjP.svg"></img>
+<!-- ![macOS](https://svgshare.com/i/ZjP.svg) -->
 
 ---
 
