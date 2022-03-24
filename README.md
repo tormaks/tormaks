@@ -11,9 +11,9 @@
 ---
 
 ### Languages and Tools:
-<!-- <a href='https://code.visualstudio.com/' target='_blank' alt='Visual Studio Code'> -->
+<a href='https://code.visualstudio.com/' target='_blank' alt='Visual Studio Code'>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="30">
-<!-- </a> -->
+</a>
 <a href='https://developer.mozilla.org/ru/docs/Web/HTML' target='_blank' alt='HTML5'>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="30">
 </a>
