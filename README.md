@@ -2,15 +2,15 @@
 
 ## I'm a junior web developer, student, athlete and tech lover 🖥
 
-👨🏻‍💻 I’m currently working on portfolio projects and something interesting. </br>
-📚 I’m currently learning in depth JavaScript and React + MobX. </br>
+👨🏻‍💻 I’m currently working in my free time on pet projects and something interesting. </br>
+📚 I’m currently learning programming paradigms, in detail JavaScript and React + MobX + Redux. </br>
 👥 I’m looking to collaborate with other content creators.
 
 ![macOS](https://svgshare.com/i/ZjP.svg)
 
 ---
 
-### Languages and Tools:
+### My stack and tools:
 <a href='https://code.visualstudio.com/' target='_blank' alt='Visual Studio Code'>
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="30">
 </a>
@@ -45,7 +45,7 @@
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="30">
 </a>
 
-### Connect with me: 
+### Contact with me: 
 <a href='https://t.me/tormaks' target='_blank' alt='Telegram'>
    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
 </a>
