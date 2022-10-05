@@ -1,6 +1,6 @@
 ### Hi there, I'm Max :octocat:
 
-## I'm a junior web developer, student, athlete and tech lover 🖥
+## I'm a web developer, student, athlete and tech lover 🖥
 
 👨🏻‍💻 I’m currently working in my free time on pet projects and something interesting. </br>
 📚 I’m currently learning programming paradigms, in detail JavaScript and React + MobX + Redux. </br>
