@@ -52,7 +52,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormaks&layout=compact&theme=react&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormaks&layout=compact&theme=flag-india&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Spotify playing 🎧
 [![Spotify](https://novatorem-eight-omega.vercel.app/api/spotify)](https://open.spotify.com/user/majorsemakin)
