@@ -11,7 +11,7 @@
 ---
 
 ### My stack and tools:
-<a href='[https://code.visualstudio.com/](https://www.jetbrains.com/ru-ru/webstorm/)' target='_blank' alt='WebStorm'>
+<a href='https://www.jetbrains.com/ru-ru/webstorm/' target='_blank' alt='WebStorm'>
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" height="30">
 </a>
 <a href='https://sass-lang.com/' target='_blank' alt='Sass'>
