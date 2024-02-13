@@ -6,8 +6,6 @@
 📚 I’m currently learning programming paradigms, in detail JavaScript and React + MobX + Redux. </br>
 👥 I’m looking to collaborate with other content creators.
 
-![macOS](https://svgshare.com/i/ZjP.svg)
-
 ---
 
 ### My stack and tools:
