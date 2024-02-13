@@ -11,11 +11,11 @@ I'm currently learning frontend architecture best practices
    <img src="https://iconape.com/wp-content/png_logo_vector/typescript.png" height="30">
 </div>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormaks&layout=compact&theme=gruvbox_light&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact with me: 
 <a href='https://t.me/tormaks' target='_blank' alt='Telegram'>
    <img src="https://cdn-icons-png.flaticon.com/512/906/906377.png" height="30">
 </a>
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormaks&layout=compact&theme=gruvbox_light&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
