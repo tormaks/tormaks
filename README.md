@@ -1,4 +1,4 @@
-### Hi there, I'm Max :octocat:
+### Hi there, I'm Max
 
 I'm currently learning frontend architecture best practices
 
