@@ -11,7 +11,7 @@
 
 ---
 
-[![Top Lans](https://github-readme-stats.vercel.app/api/top-langs/?username=tormaks&layout=compact&theme=gruvbox_light&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tormaks&layout=compact&theme=gruvbox_light&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contact with me: 
 <a href='https://t.me/tormaks' target='_blank' alt='Telegram'>
